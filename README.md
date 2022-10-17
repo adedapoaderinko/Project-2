@@ -1,2 +1,2 @@
 # Project-1
-PBL projects 2- LEMP
+PBL projects 2- LAMP
